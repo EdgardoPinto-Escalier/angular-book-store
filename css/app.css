@@ -1,0 +1,16 @@
+#headerWrapper {
+  width: 100%;
+}
+
+.siteLogo {
+  padding: 1rem;
+  margin-right: 1rem;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+
+.navWrapper {
+ padding: 1rem;
+ margin-top: .3rem;
+}
