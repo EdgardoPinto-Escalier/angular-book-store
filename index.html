@@ -13,9 +13,11 @@
   <link rel="stylesheet" href="css/app.css">
   <!-- AngularJS 1.7.2 -->
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
+  <script src="app.js"></script>
 </head>
 <body>
-  <div id="headerWrapper">
+
+  <div id="headerWrapper" ng-controller="HeaderController">
     <span class="siteLogo float-left">AngularJS Bookstore</span>
     <div class="navWrapper float-left">
       <ul class="nav nav-pills">

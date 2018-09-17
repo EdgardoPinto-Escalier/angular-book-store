@@ -1,0 +1,3 @@
+var HeaderController = function($scope) {
+  
+}
